@@ -1,0 +1,15 @@
+D:\myRepos\hours-counter\HoursCounter\bin\Debug\net6.0\HoursCounter.exe
+D:\myRepos\hours-counter\HoursCounter\bin\Debug\net6.0\HoursCounter.deps.json
+D:\myRepos\hours-counter\HoursCounter\bin\Debug\net6.0\HoursCounter.runtimeconfig.json
+D:\myRepos\hours-counter\HoursCounter\bin\Debug\net6.0\HoursCounter.dll
+D:\myRepos\hours-counter\HoursCounter\bin\Debug\net6.0\HoursCounter.pdb
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\HoursCounter.csproj.AssemblyReference.cache
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\HoursCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\HoursCounter.AssemblyInfoInputs.cache
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\HoursCounter.AssemblyInfo.cs
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\HoursCounter.csproj.CoreCompileInputs.cache
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\HoursCounter.dll
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\refint\HoursCounter.dll
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\HoursCounter.pdb
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\HoursCounter.genruntimeconfig.cache
+D:\myRepos\hours-counter\HoursCounter\obj\Debug\net6.0\ref\HoursCounter.dll
