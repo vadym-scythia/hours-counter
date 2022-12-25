@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\myRepos\\hours-counter\\HoursCounter\\HoursCounter.csproj",
+      "projectUniqueName": "D:\\myRepos\\hours-counter\\src\\HoursCounter\\HoursCounter.csproj",
       "projectName": "HoursCounter",
-      "projectPath": "D:\\myRepos\\hours-counter\\HoursCounter\\HoursCounter.csproj",
+      "projectPath": "D:\\myRepos\\hours-counter\\src\\HoursCounter\\HoursCounter.csproj",
       "packagesPath": "C:\\Users\\vmand\\.nuget\\packages\\",
-      "outputPath": "D:\\myRepos\\hours-counter\\HoursCounter\\obj\\",
+      "outputPath": "D:\\myRepos\\hours-counter\\src\\HoursCounter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vmand\\AppData\\Roaming\\NuGet\\NuGet.Config"
